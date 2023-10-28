@@ -1,0 +1,38 @@
+.om{
+	font-size: 100px;
+	color: #FFE0B2;
+}
+.intro{
+	font-size: 18px;
+	line-height: 32px;
+}
+.intro h1{
+	font-weight: 800;
+	font-family: 'Raleway', 'sans-serif' !important;
+}
+.nav-card{
+	box-shadow: 0 1px 15px rgba(0,0,0,0.1);
+    border-radius: 5px;
+    padding: 0;
+    margin: 40px;
+    border: none;
+}
+.nav-card a{
+    border-radius: 5px 5px 0 0;
+	display: block;
+    text-align: center;
+	font-size: 24px;
+	padding: 20px;
+	color: #FFF !important;
+	background-color: #1565C0; 
+	width: 100%;
+}
+.nav-card a:hover{
+	border-bottom: none !important;
+}
+.nav-card p{
+	font-family: 'Raleway', 'sans-serif' !important;
+    padding: 20px;
+    margin-bottom: 0;
+    line-height: 1.75;
+}

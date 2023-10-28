@@ -1,0 +1,3 @@
+[submodule "rigveda-src"]
+	path = rigveda-src
+	url = git@github.com:SrirangaDigital/rigveda-src.git

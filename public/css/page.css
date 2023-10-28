@@ -1,0 +1,39 @@
+body { overflow-x: hidden;}
+.maintext{
+	font-size: 16px;
+	line-height: 30px;
+	/*padding-left: 80px;*/
+}
+.maintext .title-header{
+	padding: 40px 70px;
+	background-color: #FBFBFB;
+}
+.maintext h1{
+}
+.maintext .breadcrumb-holder{
+	font-family: "Raleway";
+}
+.maintext .breadcrumb-holder .breadcrumb > li{
+	font-size: 14px;
+}
+.maintext .breadcrumb-holder .breadcrumb > li + li:before {
+    content: " > ";
+    padding: 0 10px;
+    font-size: 16px;
+	font-family: "Raleway";
+}
+.maintext h2{
+	padding-top: 30px;
+	margin-bottom: 20px;
+	font-size: 24px;
+	line-height: 48px;
+}
+.maintext h3{
+	padding-top: 75px;
+	margin-bottom: 30px;
+	font-size: 18px;
+	line-height: 32px;
+}
+.maintext h3:empty{
+	border: none;
+}
